@@ -1,0 +1,11 @@
+@charset "utf-8"
+tabtop13{
+    margin-top: 13px;
+}
+.tabtop13 td{
+    background:#ffffff;
+    height: 25px;
+    line-height: 150%;
+}
+.font-center{text-align: center;}
+.bttg{background: #e9faff; !important;}
